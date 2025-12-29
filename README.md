@@ -27,7 +27,7 @@ The workflow of this project follows these steps:
 
 ## How to Run the Project
 1. Clone the repository:
-git clone https://github.com/toukkjw/NLP-Lao-English.git
+git clone [https://github.com/nanamiKJW/NLP-Lao-English.git]
 
 2. Navigate to the project directory:
 cd REPO_NAME
