@@ -35,8 +35,8 @@ cd REPO_NAME
 python -m venv .venv
 source .venv/bin/activate
 
-4. Install dependencies:
-pip install -r requirements.txt
+4. Install dependencies
+
 
 5. Open the notebook:
 jupyter notebook
