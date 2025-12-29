@@ -8,7 +8,6 @@ The project is implemented in a Jupyter Notebook and includes clear results and 
 ## Project Structure
 - `NLP-Lao-English.ipynb` – Main Jupyter Notebook containing the full analysis  
 - `README.md` – Project documentation  
-- `requirements.txt` – List of Python dependencies (optional but recommended)
 
 ## Methodology
 The workflow of this project follows these steps:
