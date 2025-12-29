@@ -6,7 +6,7 @@ This project focuses on Natural Language Processing (NLP) analysis of Lao and En
 The project is implemented in a Jupyter Notebook and includes clear results and discussion supported by visual diagrams.
 
 ## Project Structure
-- `NLP-Lao-English.ipynb` – Main Jupyter Notebook containing the full analysis  
+- `lao_english_text_analysis.ipynb` – Main Jupyter Notebook containing the full analysis  
 - `README.md` – Project documentation  
 
 ## Methodology
